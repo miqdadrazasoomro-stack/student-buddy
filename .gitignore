@@ -1,0 +1,9 @@
+env.json
+.dart_tool/
+build/
+.flutter-plugins*
+android/key.properties
+*.jks
+*.keystore
+.env
+supabase/.temp/
